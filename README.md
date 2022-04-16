@@ -6,7 +6,7 @@ Mod of official TWRP 3.5.2_9.0:
 - Added partitions for flashing images
 - Added reset passwords and pins after restoring a backup. Replaced Back button after restoring nandroid backup with Reset Passwords button
 - Added Safe Mode booting into reboot options
-- Added theme with recovery password. Default pass "cepheus". You can change your password in TWRP settings
+- Added theme with recovery enter password. Default pass "cepheus". You can change your password in TWRP settings
 - Changed clock layout
 
 Link to Google Drive folder with mod recovery image, original recovery image, zip package of mod for recovery installing and theme zip package.

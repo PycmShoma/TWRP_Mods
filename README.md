@@ -1,6 +1,6 @@
 # Description
 
-Mod of official TWRP 3.5.2_9.0:
+Mod of official Cepheus TWRP 3.5.2_9.0:
 
 - Added partitions for backup
 - Added partitions for flashing images

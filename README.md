@@ -8,7 +8,7 @@ Mod of official Cepheus TWRP 3.5.2_9.0:
 - Added Safe Mode booting into reboot options (recovery and theme modification)
 - Added theme with recovery enter password. Default pass "cepheus". You can change your password in TWRP settings
 - Changed clock layout (recovery modification)
-- Added Flashlight button (theme modification)
+- Added Flashlight button. The button has replaced ADB SIDELOAD. If you need this feature, go to Advanced > File Manager > /sdcard/TWRP/theme/ and rename ui.zip to ui.zip.bak. Then click there in Advanced Reload Theme button (theme modification)
 
 Link to Google Drive folder with mod recovery image, original recovery image, zip package of mod for recovery installing and theme zip package.
 Downloaded theme zip package move along the path Internal Storage /sdcard/TWRP/theme/ui.zip and rebooting recovery

@@ -6,7 +6,7 @@ Mod of official Cepheus TWRP 3.5.2_9.0:
 - Added partitions for flashing images (recovery modification)
 - Added reset passwords and pins after restoring a backup. Replaced Back button after restoring nandroid backup with Reset Passwords button (theme modification)
 - Added Safe Mode booting into reboot options (theme modification)
-- Added theme with recovery enter password. Default pass "cepheus". You can change your password in TWRP settings (theme modification)
+- Added recovery enter password. Default pass "cepheus". You can change your password in TWRP settings (theme modification)
 - Changed clock layout (theme modification)
 - Added a Flashlight to the main page (theme modification)
 

@@ -12,7 +12,7 @@ Mod of official Cepheus TWRP 3.5.2_9.0:
 
 Link to Google Drive folder with:
 - Mod recovery image
-- Original recovery IMAGE for restoring if you don't like this mods
+- Original recovery image for restoring if you don't like this mods
 - Zip package for apply theme with mods
 
 Download theme zip package move along the path Internal Storage /sdcard/TWRP/theme/ui.zip and rebooting recovery or reload theme

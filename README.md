@@ -10,7 +10,11 @@ Mod of official Cepheus TWRP 3.5.2_9.0:
 - Changed clock layout (recovery and theme modification)
 - Added a Flashlight to the main page (theme modification)
 
-Link to Google Drive folder with mod recovery image, original recovery image, zip package of mod for recovery installing and theme zip package.
-Downloaded theme zip package move along the path Internal Storage /sdcard/TWRP/theme/ui.zip and rebooting recovery
+Link to Google Drive folder with:
+- Mod recovery image
+- Original recovery IMAGE for restoring if you don't like this mods
+- Zip package for apply theme with mods
+
+Download theme zip package move along the path Internal Storage /sdcard/TWRP/theme/ui.zip and rebooting recovery or reload theme
 
 https://drive.google.com/drive/folders/1Vkqd17d1u9AevUzChUeknzCZ6sgtzJty

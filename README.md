@@ -1,6 +1,6 @@
 # Description
 
-Mod of official Cepheus TWRP 3.5.2_9.0:
+Mod of official Cepheus TWRP 3.5.2_9.0 and unofficial 3.6.2_9.0:
 
 - Added partitions for backup (recovery modification)
 - Added partitions for flashing images (recovery modification)
@@ -22,3 +22,6 @@ Link to Google Drive folder with:
 Download theme zip package move along the path Internal Storage /sdcard/TWRP/theme/ui.zip and rebooting recovery or reload theme
 
 https://drive.google.com/drive/folders/1Vkqd17d1u9AevUzChUeknzCZ6sgtzJty
+
+## Temporary builds with actual fixes on official TWRP repo
+https://github.com/PycmShoma/Action-Recovery-builder/releases

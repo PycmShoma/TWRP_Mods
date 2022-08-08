@@ -23,5 +23,5 @@ Download theme zip package move along the path Internal Storage /sdcard/TWRP/the
 
 https://drive.google.com/drive/folders/1Vkqd17d1u9AevUzChUeknzCZ6sgtzJty
 
-## Temporary builds with actual fixes on official TWRP repo
+## Updates with actual fixes in official TWRP repo
 https://github.com/PycmShoma/Action-Recovery-builder/releases

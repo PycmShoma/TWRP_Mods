@@ -24,7 +24,7 @@
 #
 > [Modded TWRP 3.6.2_9.0 Flashable Installer](https://drive.google.com/file/d/14C8a0EdBB1-qFmwu3ooomSuVt7rtn59K/view?usp=drivesdk)
 #
-> [Modded TWRP 3.6.2_9.0 Flashable Installer](https://drive.google.com/file/d/14C8a0EdBB1-qFmwu3ooomSuVt7rtn59K/view?usp=drivesdk)
+> [Modded TWRP 3.7.0_9.0 Flashable Installer](https://drive.google.com/file/d/1G3jq3pr0V9CIU_kofqjRxyjeJJTY30r8/view?usp=drivesdk)
 #
 #
 # If you do not need mods with the `theme modification` tag:

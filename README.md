@@ -1,4 +1,4 @@
-# Mod of official Cepheus TWRP. Current version 3.6.2_9.0:
+# Mod of official Cepheus TWRP. Current version 3.7.0_9.0:
 
 >Added partitions for backup `recovery modification`
 #
@@ -16,11 +16,13 @@
 # Download from Google Drive:
 > [Screeshots](https://drive.google.com/drive/folders/1Vkqd17d1u9AevUzChUeknzCZ6sgtzJty)
 #
-> [Original image of TWRP 3.5.2_9.0](https://drive.google.com/file/d/1Nj24xgVuSzCraYOwb5lph3vjhTEMjhHM/view?usp=drivesdk)
+> [Original images of TWRP eu servers](https://eu.dl.twrp.me/cepheus/)
 #
-> [Original image of TWRP 3.6.2_9.0](https://drive.google.com/file/d/1KZbLG5LjM0VFhdbBbP97USs3vGpQ8XY8/view?usp=drivesdk)
+> [Original image of TWRP us servers](https://dl.twrp.me/cepheus/)
 #
 > [Modded TWRP 3.5.2_9.0 Flashable Installer](https://drive.google.com/file/d/1Lc0wgfihixz7ARevUr_8BmrdR6Ka7xP7/view?usp=drivesdk)
+#
+> [Modded TWRP 3.6.2_9.0 Flashable Installer](https://drive.google.com/file/d/14C8a0EdBB1-qFmwu3ooomSuVt7rtn59K/view?usp=drivesdk)
 #
 > [Modded TWRP 3.6.2_9.0 Flashable Installer](https://drive.google.com/file/d/14C8a0EdBB1-qFmwu3ooomSuVt7rtn59K/view?usp=drivesdk)
 #

@@ -18,7 +18,7 @@
 #
 > [Original images of TWRP eu servers](https://eu.dl.twrp.me/cepheus/)
 #
-> [Original image of TWRP us servers](https://dl.twrp.me/cepheus/)
+> [Original images of TWRP us servers](https://dl.twrp.me/cepheus/)
 #
 > [Modded TWRP 3.5.2_9.0 Flashable Installer](https://drive.google.com/file/d/1Lc0wgfihixz7ARevUr_8BmrdR6Ka7xP7/view?usp=drivesdk)
 #
